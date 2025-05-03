@@ -7,7 +7,7 @@ async function displayHeaderButtons(pathname = window.location.pathname) {
   const headerBtnContainer = document.getElementById("header-btns");
   if (!headerBtnContainer) return;
 
-  const trimmedPath = pathname.replace("/fed2-js2-ca-Martinekong", "");
+  const trimmedPath = pathname.replace("/FED2-JS2-CA", "");
 
   switch (trimmedPath) {
     case "/":
