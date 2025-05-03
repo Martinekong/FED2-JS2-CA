@@ -71,7 +71,7 @@ npm run preview
 ## Deployment
 
 This site is deployed using GitHub pages:  
-🔗 [Vibe Social website](https://norofffeu.github.io/fed2-js2-ca-Martinekong/)
+🔗 [Vibe Social website](https://martinekong.github.io/FED2-JS2-CA/)
 
 ## Contact
 
